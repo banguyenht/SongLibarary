@@ -39,7 +39,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = 'SongLibarary'  // đây là repo bạn tạo trên Bintray . nếu k có sẽ báo lỗi HTTP 404
-        name = 'mylib'
+        name = 'SongLibarary'
         userOrg = user
         licenses = ['Apache-2.0']
         publish = true
