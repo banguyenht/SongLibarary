@@ -26,7 +26,7 @@ install {
     repositories.mavenInstaller {
         pom.project {
             group "com.cop.huuba.mp3library"
-            artifactId "mylib"
+            artifactId "SongLibarary"
             version "1.0.1"
             // nó sẽ ra được như nè :  'com.banguyen.libraries:awesomelib:1.0.1'
         }
